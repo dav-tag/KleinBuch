@@ -61,17 +61,16 @@ td.header {
 	height: 110px;
 /*	background-color: #8dc76e; */
 	vertical-align: top;
-	horizontal-align: center;
 }
 div.t0 {
 	display: block;
 	position: relative;
 	top: 30px;
-	left: 120px;
+	left: 10px;
 }
 /*--стили ссылок в меню верхних разделов--*/
 td.td_top_menu {
-	background-image: url(/img/design/top_menu_bg.jpg);
+	background-image: url(img/top_menu_bg.jpg);
 	background-repeat: repeat-x;
 	background-color: #eeeeee;
 }
