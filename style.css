@@ -55,12 +55,13 @@ A:hover
 	TEXT-DECORATION: none;
 }
 td.header {
-	background-image: url(/img/design/your-site-top.jpg);
+	background-image: url(img/your-site-top.png);
 	background-repeat: no-repeat;
 	width: 993px;
 	height: 110px;
-	background-color: #8dc76e;
+/*	background-color: #8dc76e; */
 	vertical-align: top;
+	horizontal-align: center;
 }
 div.t0 {
 	display: block;
